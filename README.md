@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and video games.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on among us
-- 📫 How to reach me: contact me
+- 📫 How to reach me: contact me on discord, Val#7701
 
 <!---
 val-vicky/val-vicky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
