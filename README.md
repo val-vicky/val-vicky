@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @val-vicky
+- 👋 Hi!
 - 👀 I’m interested in coding and video games.
 - 🌱 I’m currently trying to make Python projects!
 - 💞️ I’m looking to collaborate on any small coding projects!
